@@ -1,0 +1,51 @@
+<studentInformation>
+
+	<student>
+
+	<id>1</id>
+	<name>Joh Doe</name>
+	
+	<address>
+		<house_no>h#38,</house_no>
+		<road_no>R#3</road_no>
+		<area>banani</area>
+		<dist>Dhaka</dist>
+	</address>
+	<department>Sales</department>
+	<salary>20000</salary>
+	
+	</student>
+	
+	<student>
+
+	<id>2</id>
+	<name>Mark Zukerberg</name>
+	
+	<address>
+		<house_no>Flat# A/1,</house_no>
+		<road_no>H#20,</road_no>
+		<area>Mirpur</area>
+		<dist>Dhaka</dist>
+	</address>
+	<department>Accounts</department>
+	<salary>12000</salary>
+	
+	</student>
+	
+	<student>
+
+	<id>3</id>
+	<name>Ala Voski</name>
+	
+	<address>
+		<house_no>h#38,</house_no>
+		<road_no>R#3</road_no>
+		<area>Motijheel</area>
+		<dist></dist>
+	</address>
+	<department>Human Resourse</department>
+	<salary>30000</salary>
+	
+	</student>
+
+</studentInformation>
